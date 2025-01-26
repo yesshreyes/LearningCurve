@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601678170076",
+    "project_id": "learningcurve-3d1e1",
+    "storage_bucket": "learningcurve-3d1e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601678170076:android:015012d307ed028c0b7119",
+        "android_client_info": {
+          "package_name": "com.example.learningcurve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUMJ76T4bt9MrOFodiSx4ewPt0BUQdYHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
