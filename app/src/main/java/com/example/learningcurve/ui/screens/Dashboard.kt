@@ -39,7 +39,6 @@ import com.example.learningcurve.auth.AuthState
 import com.example.learningcurve.auth.AuthViewModel
 import com.example.learningcurve.chatbot.ChatViewModel
 import com.example.learningcurve.database.Course
-import com.example.learningcurve.firebase.UploadButton
 import com.example.learningcurve.ui.components.BottomNavigationBar
 import com.google.firebase.firestore.FirebaseFirestore
 
